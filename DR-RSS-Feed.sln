@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DR-RSS-Feed", "DR-RSS-Feed\DR-RSS-Feed.csproj", "{B4FCFBF4-7ABA-4B43-95DC-21F53B756ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4FCFBF4-7ABA-4B43-95DC-21F53B756ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4FCFBF4-7ABA-4B43-95DC-21F53B756ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4FCFBF4-7ABA-4B43-95DC-21F53B756ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4FCFBF4-7ABA-4B43-95DC-21F53B756ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9047D82F-012D-4A16-91DF-25BAB9C3090B}
+	EndGlobalSection
+EndGlobal
